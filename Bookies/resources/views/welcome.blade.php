@@ -8,7 +8,7 @@
 <body>
     <h1>Welcome to Bookies App</h1>
     <p>Click the button below to list your books</p>
-    <a href="" class="btn">
-        Find Books
+    <a href="/books" class="btn">
+        List of Books
 </body>
 </html>
